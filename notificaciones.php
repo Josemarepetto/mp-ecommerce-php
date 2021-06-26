@@ -3,8 +3,22 @@ require './vendor/autoload.php';
 MercadoPago\SDK::setAccessToken("APP_USR-6317427424180639-042414-47e969706991d3a442922b0702a0da44-469485398");
     echo "<h2>Notificaciones</h2><br>";
 
-        $data = json_decode(file_get_contents("php://input"));
-        echo $data;
+        header("Content-Type: application/json");
+
+  if (isset($_SERVER['HTTP_ORIGIN'])) {
+    header("Access-Control-Allow-Origin: {$_SERVER['HTTP_ORIGIN']}");
+    header('Access-Control-Allow-Credentials: true');
+    header('Access-Control-Max-Age: 86400');    // cache for 1 day
+  }
+
+  error_reporting(E_ALL);
+  ini_set('display_errors', TRUE);
+  ini_set('display_startup_errors', TRUE);
+
+ 
+    $data = json_decode(file_get_contents("php://input"));
+
+    echo $data;
 
 
     // $json = file_get_contents('php://input');
