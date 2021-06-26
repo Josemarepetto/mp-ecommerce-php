@@ -7,7 +7,7 @@ MercadoPago\SDK::setAccessToken("APP_USR-6317427424180639-042414-47e969706991d3a
 
         	$data = file_get_contents("php://input");
         	$decode = json_decode($data);
-        echo $decode;}
+        echo echo "<script>console.log('Debug Objects: " . $decode . "' );</script>";}
 
 
     // $json = file_get_contents('php://input');
