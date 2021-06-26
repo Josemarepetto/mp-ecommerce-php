@@ -3,9 +3,8 @@ require './vendor/autoload.php';
 MercadoPago\SDK::setAccessToken("APP_USR-6317427424180639-042414-47e969706991d3a442922b0702a0da44-469485398");
     echo "<h2>Notificaciones</h2><br>";
 
-        $raw_payload = file_get_contents('php://input');
-        $payload = json_decode($raw_payload, true);
-        echo $payload;
+        $data = json_decode(file_get_contents("php://input"));
+        echo $data;
 
 
     // $json = file_get_contents('php://input');
