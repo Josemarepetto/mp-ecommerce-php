@@ -24,7 +24,10 @@ MercadoPago\SDK::setIntegratorId("dev_24c65fb163bf11ea96500242ac130004");
         $item->currency_id= "ARS";
         $item->unit_price = $precio_unitario;
         $item->picture_url=$imagen;
+        //Configuro External Reference solicitada
         $preference-> external_reference="josemarepetto@gmail.com";
+        //Configuro URL para recibir notificaciones
+        $preference->notification_url="https://josemarepetto-mp-ecommerce-php.herokuapp.com/notificaciones.php";
         $preference->items = array($item);
 
         //Metodos de Pago EXCLUIDOS
