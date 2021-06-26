@@ -1,5 +1,9 @@
 {
-    "name": "mp-ecommerce-php",
-    "type": "project",
-    "require": {}
+  "name": "vendor_name/phpproject",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "require": {
+    "mercadopago/dx-php": "^2.3"
+  }
 }
