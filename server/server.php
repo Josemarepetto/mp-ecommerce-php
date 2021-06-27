@@ -75,6 +75,15 @@ MercadoPago\SDK::setIntegratorId("dev_24c65fb163bf11ea96500242ac130004");
         $initPoint = json_encode($response);
         $key="init_point";
         $data = json_decode($initPoint)->$key;
+                
+                $response = array(
+              'id' => $preference->id,
+          ); 
+          $id = json_encode($response);
+          $key="id";
+          $idPreferencia = json_decode($id)->$key;
+          file_put_contents('inputs.log', $idPreferencia . PHP_EOL, FILE_APPEND);
+                
         return $data;
         }
 ?>
