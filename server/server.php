@@ -9,7 +9,7 @@ MercadoPago\SDK::setIntegratorId("dev_24c65fb163bf11ea96500242ac130004");
             $titulo = $_POST['title'];
             $precio = $_POST['price'];
             $cant = $_POST['unit'];
-            $img = $_POST['unit'];
+            $img = $_POST['img'];
             echo getIdPreferencia($titulo, $cant, $precio, $img);
         }
 
@@ -58,14 +58,14 @@ MercadoPago\SDK::setIntegratorId("dev_24c65fb163bf11ea96500242ac130004");
           "zip_code" => "1111"
         );
 
+        $preference->payer=$payer;
+
         $preference->back_urls = array(
             "success" => "https://josemarepetto-mp-ecommerce-php.herokuapp.com/resultado.php",
             "failure" => "https://josemarepetto-mp-ecommerce-php.herokuapp.com/resultado.php", 
             "pending" => "https://josemarepetto-mp-ecommerce-php.herokuapp.com/resultado.php"
         );
         $preference->auto_return = "approved"; 
-
-        
 
         $preference->save();
 
@@ -82,8 +82,7 @@ MercadoPago\SDK::setIntegratorId("dev_24c65fb163bf11ea96500242ac130004");
           $id = json_encode($response);
           $key="id";
           $idPreferencia = json_decode($id)->$key;
-          file_put_contents('inputs.log', $idPreferencia . PHP_EOL, FILE_APPEND);
-                
+          file_put_contents('./../inputs.log', 'Id Pref: '.$idPreferencia . PHP_EOL, FILE_APPEND);
         return $data;
         }
 ?>

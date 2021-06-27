@@ -46,7 +46,7 @@
 
 <body class="as-theme-light-heroimage">
 
-    <div class="stack">
+<div class="stack">
         
         <div class="as-search-wrapper" role="main">
             <div class="as-navtuck-wrapper">
@@ -225,12 +225,12 @@
                                     <div class="as-producttile-tilehero with-paddlenav with-paddlenav-onhover">
                                         <div class="as-dummy-container as-dummy-img">
 
-                                            <img src="./assets/samsung-galaxy-s9-xxl.jpg" class="ir ir item-image as-producttile-image  " alt="" width="445" height="445">
+                                            <img src="https://http2.mlstatic.com/D_NQ_NP_659182-MLU42392895592_062020-V.jpg" class="ir ir item-image as-producttile-image  " alt="" width="445" height="445">
                                         </div>
                                         <div class="images mini-gallery gal1 ">
                                             <ul class="clearfix as-producttile-nojs">
                                                 <li class="as-searchtile-nojs">
-                                                    <img src="./assets/samsung-galaxy-s9-xxl.jpg" class="ir relatedlink item-image as-producttile-image" alt="" width="445" height="445" data-scale-params-2="wid=890&amp;hei=890&amp;fmt=jpeg&amp;qlt=95&amp;op_usm=0.5,0.5&amp;.v=1502831144597">
+                                                    <img src="https://http2.mlstatic.com/D_NQ_NP_659182-MLU42392895592_062020-V.jpg" class="ir relatedlink item-image as-producttile-image" alt="" width="445" height="445" data-scale-params-2="wid=890&amp;hei=890&amp;fmt=jpeg&amp;qlt=95&amp;op_usm=0.5,0.5&amp;.v=1502831144597">
                                                 </li>
                                             </ul>
 
@@ -238,7 +238,7 @@
                                                 <div class="clearfix image-list xs-no-js as-util-relatedlink relatedlink" data-relatedlink="2|Beats Studio3 Wireless Over‑Ear Headphones - Shadow Gray|MQUF2">
                                                     <div class="as-tilegallery-element as-image-selected">
                                                         <div class=""></div>
-                                                        <img src="./assets/samsung-galaxy-s9-xxl.jpg" class="ir ir item-image as-producttile-image" alt="" data-desc="Samsung galaxy" style="content:-webkit-image-set(url(https://md6.pricebaba.com/images/product/mobile/46638/samsung-galaxy-s9-xxl.jpg">
+                                                        <img src="https://http2.mlstatic.com/D_NQ_NP_659182-MLU42392895592_062020-V.jpg" class="ir ir item-image as-producttile-image" alt="" data-desc="Samsung galaxy" style="content:-webkit-image-set(url(https://http2.mlstatic.com/D_NQ_NP_659182-MLU42392895592_062020-V.jpg">
                                                     </div>
                                                     
                                                 </div>
@@ -261,7 +261,7 @@
                                             </div>
                                         </div>
                                         <form action="./detail.php" method="get">
-                                            <input type="hidden" name="img" value="./assets/samsung-galaxy-s9-xxl.jpg">
+                                            <input type="hidden" name="img" value="https://http2.mlstatic.com/D_NQ_NP_659182-MLU42392895592_062020-V.jpg">
                                             <input type="hidden" name="title" value="Samsung Galaxy S9">
                                             <input type="hidden" name="price" value="15000">
                                             <input type="hidden" name="unit" value="1">
@@ -273,7 +273,7 @@
                                     <div class="as-producttile-tilehero with-paddlenav with-paddlenav-onhover">
                                         <div class="as-dummy-container as-dummy-img">
 
-                                            <img src="./assets/l6g6.jpg" class="ir ir item-image as-producttile-image " alt="" width="445" height="445">
+                                            <img src="https://http2.mlstatic.com/D_NQ_NP_694951-MLU42076299370_062020-V.jpg" class="ir ir item-image as-producttile-image " alt="" width="445" height="445">
                                         </div>
                                         <div class="images mini-gallery gal2 ">
 
@@ -281,7 +281,7 @@
                                                 <div class="clearfix image-list xs-no-js as-util-relatedlink relatedlink" data-relatedlink="3|BeatsX Earphones - UNDEFEATED Limited Edition - Camo|MQD92">
                                                     <div class="as-tilegallery-element as-image-selected">
                                                         <div class=""></div>
-                                                        <img src="./assets/l6g6.jpg" class="ir ir item-image as-producttile-image" alt="" width="445" height="445" data-desc="LG G6" style="">
+                                                        <img src="https://http2.mlstatic.com/D_NQ_NP_694951-MLU42076299370_062020-V.jpg" class="ir ir item-image as-producttile-image" alt="" width="445" height="445" data-desc="LG G6" style="">
                                                     </div>
                                                     
                                                 </div>
@@ -316,7 +316,7 @@
                                             </div>
                                         </div>
                                         <form action="./detail.php" method="get">
-                                            <input type="hidden" name="img" value="./assets/l6g6.jpg">
+                                            <input type="hidden" name="img" value="https://http2.mlstatic.com/D_NQ_NP_694951-MLU42076299370_062020-V.jpg">
                                             <input type="hidden" name="title" value="LG G6">
                                             <input type="hidden" name="price" value="10000">
                                             <input type="hidden" name="unit" value="1">
@@ -328,7 +328,7 @@
                                     <div class="as-producttile-tilehero with-paddlenav with-paddlenav-onhover">
                                         <div class="as-dummy-container as-dummy-img">
 
-                                            <img src="./assets/Screen Shot 2017-11-01 at 13.01.54.png" class="ir ir item-image as-producttile-image  " alt="" width="445" height="445">
+                                            <img src="https://http2.mlstatic.com/D_NQ_NP_939173-MLU44108133181_112020-V.jpg" class="ir ir item-image as-producttile-image  " alt="" width="445" height="445">
                                         </div>
                                         <div class="images mini-gallery gal0 ">
                                             <ul class="clearfix as-producttile-nojs">
@@ -341,11 +341,11 @@
                                                 <div class="clearfix image-list xs-no-js as-util-relatedlink relatedlink" data-relatedlink="1|AirPods|MMEF2" style="left: 0px;">
                                                     <div class="as-tilegallery-element as-image-selected">
                                                         <div class=""></div>
-                                                        <img src="./assets/Screen Shot 2017-11-01 at 13.01.54.png" class="ir ir item-image as-producttile-image" alt="" width="445" height="445" data-desc="AirPods - Image 1 ">
+                                                        <img src="https://http2.mlstatic.com/D_NQ_NP_939173-MLU44108133181_112020-V.jpg" class="ir ir item-image as-producttile-image" alt="" width="445" height="445" data-desc="AirPods - Image 1 ">
                                                     </div>
                                                     <div class="as-tilegallery-element">
                                                         <div class=""></div>
-                                                        <img src="./assets/u_10168742.jpg" class="ir ir item-image as-producttile-image" alt="" width="445" height="445">
+                                                        <img src="https://http2.mlstatic.com/D_NQ_NP_939173-MLU44108133181_112020-V.jpg" class="ir ir item-image as-producttile-image" alt="" width="445" height="445">
                                                     </div>
                                                 </div>
                                             </div>
@@ -374,7 +374,7 @@
                                             </div>
                                         </div>
                                         <form action="./detail.php" method="get">
-                                            <input type="hidden" name="img" value="./assets/u_10168742.jpg">
+                                            <input type="hidden" name="img" value="https://http2.mlstatic.com/D_NQ_NP_939173-MLU44108133181_112020-V.jpg">
                                             <input type="hidden" name="title" value="iPhone 8">
                                             <input type="hidden" name="price" value="16000">
                                             <input type="hidden" name="unit" value="1">
@@ -386,7 +386,7 @@
                                     <div class="as-producttile-tilehero with-paddlenav with-paddlenav-onhover">
                                         <div class="as-dummy-container as-dummy-img">
 
-                                            <img src="./assets/wireless-headphones" class="ir ir item-image as-producttile-image  " alt="" width="445" height="445">
+                                            <img src="https://http2.mlstatic.com/D_NQ_NP_913992-MLA45719958237_042021-V.jpg" class="ir ir item-image as-producttile-image  " alt="" width="445" height="445">
                                         </div>
                                         <div class="images mini-gallery gal3 ">
                                            
@@ -395,7 +395,7 @@
                                                 <div class="clearfix image-list xs-no-js as-util-relatedlink relatedlink" data-relatedlink="4|BeatsX Earphones - Matte Silver|MR3J2">
                                                     <div class="as-tilegallery-element as-image-selected">
                                                         <div class=""></div>
-                                                        <img src="./assets/motorola-moto-g5-plus-1.jpg" class="ir ir item-image as-producttile-image" alt="" width="445" height="445" data-desc="BeatsX Earphones - Matte Silver - Image 1 " style="content:-webkit-image-set(url(https://cdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g5-plus-1.jpg) 1x);">
+                                                        <img src="https://http2.mlstatic.com/D_NQ_NP_913992-MLA45719958237_042021-V.jpg" class="ir ir item-image as-producttile-image" alt="" width="445" height="445" data-desc="BeatsX Earphones - Matte Silver - Image 1 " style="content:-webkit-image-set(url(https://http2.mlstatic.com/D_NQ_NP_913992-MLA45719958237_042021-V.jpg) 1x);">
                                                     </div>
                                                     
                                                 </div>
@@ -431,7 +431,7 @@
                                             </div>
                                         </div>
                                         <form action="./detail.php" method="get">
-                                            <input type="hidden" name="img" value="./assets/motorola-moto-g5-plus-1.jpg">
+                                            <input type="hidden" name="img" value="https://http2.mlstatic.com/D_NQ_NP_913992-MLA45719958237_042021-V.jpg">
                                             <input type="hidden" name="title" value="Motorola G5">
                                             <input type="hidden" name="price" value="9000">
                                             <input type="hidden" name="unit" value="1">
@@ -443,12 +443,12 @@
                                     <div class="as-producttile-tilehero with-paddlenav with-paddlenav-onhover">
                                         <div class="as-dummy-container as-dummy-img">
 
-                                            <img src="./assets/wireless-headphones" class="ir ir item-image as-producttile-image  " alt="" width="445" height="445">
+                                            <!-- <img src="./assets/wireless-headphones" class="ir ir item-image as-producttile-image  " alt="" width="445" height="445"> -->
                                         </div>
                                         <div class="images mini-gallery gal4 ">
                                             <ul class="clearfix as-producttile-nojs">
                                                 <li class="as-searchtile-nojs">
-                                                    <img src="./assets/motorola-moto-g4-3.jpg" class="ir relatedlink item-image as-producttile-image" alt="" width="445" height="445" data-scale-params-2="wid=890&amp;hei=890&amp;fmt=jpeg&amp;qlt=95&amp;op_usm=0.5,0.5&amp;.v=1524778255945">
+                                                    <img src="https://http2.mlstatic.com/D_NQ_NP_980736-MLA31541009449_072019-V.jpg" class="ir relatedlink item-image as-producttile-image" alt="" width="445" height="445" data-scale-params-2="wid=890&amp;hei=890&amp;fmt=jpeg&amp;qlt=95&amp;op_usm=0.5,0.5&amp;.v=1524778255945">
                                                 </li>
                                             </ul>
 
@@ -456,7 +456,7 @@
                                                 <div class="clearfix image-list xs-no-js as-util-relatedlink relatedlink" data-relatedlink="5|Beats Solo3 Wireless On-Ear Headphones - Neighborhood Collection - Break Blue|MQ392">
                                                     <div class="as-tilegallery-element as-image-selected">
                                                         <div class=""></div>
-                                                        <img src="./assets/motorola-moto-g4-3.jpg" class="ir ir item-image as-producttile-image" style="content:-webkit-image-set(url(https://cdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g4-3.jpg) 1x);">
+                                                        <img src="https://http2.mlstatic.com/D_NQ_NP_980736-MLA31541009449_072019-V.jpg" class="ir ir item-image as-producttile-image" style="content:-webkit-image-set(url(https://http2.mlstatic.com/D_NQ_NP_980736-MLA31541009449_072019-V.jpg) 1x);">
                                                     </div>
                                                     
                                                 </div>
@@ -481,7 +481,7 @@
                                             </div>
                                         </div>
                                         <form action="./detail.php" method="get">
-                                            <input type="hidden" name="img" value="./assets/motorola-moto-g4-3.jpg">
+                                            <input type="hidden" name="img" value="https://http2.mlstatic.com/D_NQ_NP_980736-MLA31541009449_072019-V.jpg">
                                             <input type="hidden" name="title" value="Moto G4">
                                             <input type="hidden" name="price" value="8000">
                                             <input type="hidden" name="unit" value="1">
@@ -493,27 +493,18 @@
                                     <div class="as-producttile-tilehero with-paddlenav with-paddlenav-onhover">
                                         <div class="as-dummy-container as-dummy-img">
 
-                                            <img src="./assets/wireless-headphones" class="ir ir item-image as-producttile-image  " alt="" width="445" height="445">
+                                            <!-- <img src="./assets/wireless-headphones" class="ir ir item-image as-producttile-image  " alt="" width="445" height="445"> -->
                                         </div>
                                         <div class="images mini-gallery gal5 ">
-                                       
-
                                             <div class="as-isdesktop with-paddlenav with-paddlenav-onhover">
                                                 <div class="clearfix image-list xs-no-js as-util-relatedlink relatedlink" data-relatedlink="6|Powerbeats3 Wireless Earphones - Neighborhood Collection - Brick Red|MPXP2">
                                                     <div class="as-tilegallery-element as-image-selected">
                                                         <div class=""></div>
-                                                        <img src="./assets/003.jpg" class="ir ir item-image as-producttile-image" alt="" width="445" height="445" style="content:-webkit-image-set(url(https://news.mynavi.jp/article/20180416-xperia-next/images/003.jpg) 1x);">
+                                                        <img src="https://news.mynavi.jp/article/20180416-xperia-next/images/003.jpg" class="ir ir item-image as-producttile-image" alt="" width="300" height="350" style="content:-webkit-image-set(url(https://news.mynavi.jp/article/20180416-xperia-next/images/003.jpg) 1x);">
                                                     </div>
-                                                    
                                                 </div>
-
-                                                
                                             </div>
-
-                                            
-
                                         </div>
-
                                     </div>
                                     <div class="as-producttile-info" style="min-height: 168px;">
                                         <div class="as-producttile-titlepricewraper" style="min-height: 128px;">
@@ -532,7 +523,7 @@
                                             </div>
                                         </div>
                                         <form action="./detail.php" method="get">
-                                            <input type="hidden" name="img" value="./assets/003.jpg">
+                                            <input type="hidden" name="img" value="https://news.mynavi.jp/article/20180416-xperia-next/images/003.jpg">
                                             <input type="hidden" name="title" value="Sony Xperia XZ2">
                                             <input type="hidden" name="price" value="10000">
                                             <input type="hidden" name="unit" value="1">
@@ -561,7 +552,6 @@
                 </div>
             </div>
         </div>
-
 </div><div class="mp-mercadopago-checkout-wrapper" style="z-index:-2147483647;display:block;background:rgba(0, 0, 0, 0.7);border:0;overflow:hidden;visibility:hidden;margin:0;padding:0;position:fixed;left:0;top:0;width:0;opacity:0;height:0;transition:opacity 220ms ease-in;"> <svg class="mp-spinner" viewBox="25 25 50 50"> <circle class="mp-spinner-path" cx="50" cy="50" r="20" fill="none" stroke-miterlimit="10"></circle> </svg> </div><div class="mp-mercadopago-checkout-wrapper" style="z-index:-2147483647;display:block;background:rgba(0, 0, 0, 0.7);border:0;overflow:hidden;visibility:hidden;margin:0;padding:0;position:fixed;left:0;top:0;width:0;opacity:0;height:0;transition:opacity 220ms ease-in;"> <svg class="mp-spinner" viewBox="25 25 50 50"> <circle class="mp-spinner-path" cx="50" cy="50" r="20" fill="none" stroke-miterlimit="10"></circle> </svg> </div><div class="mp-mercadopago-checkout-wrapper" style="z-index:-2147483647;display:block;background:rgba(0, 0, 0, 0.7);border:0;overflow:hidden;visibility:hidden;margin:0;padding:0;position:fixed;left:0;top:0;width:0;opacity:0;height:0;transition:opacity 220ms ease-in;"> <svg class="mp-spinner" viewBox="25 25 50 50"> <circle class="mp-spinner-path" cx="50" cy="50" r="20" fill="none" stroke-miterlimit="10"></circle> </svg> </div><div class="mp-mercadopago-checkout-wrapper" style="z-index:-2147483647;display:block;background:rgba(0, 0, 0, 0.7);border:0;overflow:hidden;visibility:hidden;margin:0;padding:0;position:fixed;left:0;top:0;width:0;opacity:0;height:0;transition:opacity 220ms ease-in;"> <svg class="mp-spinner" viewBox="25 25 50 50"> <circle class="mp-spinner-path" cx="50" cy="50" r="20" fill="none" stroke-miterlimit="10"></circle> </svg> </div><div class="mp-mercadopago-checkout-wrapper" style="z-index:-2147483647;display:block;background:rgba(0, 0, 0, 0.7);border:0;overflow:hidden;visibility:hidden;margin:0;padding:0;position:fixed;left:0;top:0;width:0;opacity:0;height:0;transition:opacity 220ms ease-in;"> <svg class="mp-spinner" viewBox="25 25 50 50"> <circle class="mp-spinner-path" cx="50" cy="50" r="20" fill="none" stroke-miterlimit="10"></circle> </svg> </div><div class="mp-mercadopago-checkout-wrapper" style="z-index:-2147483647;display:block;background:rgba(0, 0, 0, 0.7);border:0;overflow:hidden;visibility:hidden;margin:0;padding:0;position:fixed;left:0;top:0;width:0;opacity:0;height:0;transition:opacity 220ms ease-in;"> <svg class="mp-spinner" viewBox="25 25 50 50"> <circle class="mp-spinner-path" cx="50" cy="50" r="20" fill="none" stroke-miterlimit="10"></circle> </svg> </div><div id="ac-gn-viewport-emitter"> </div>
 <script>
 function inicio(){$(location).attr('href', './index.php');}
