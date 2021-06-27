@@ -15,7 +15,7 @@
         ob_end_clean();
 
         //Grabo en archivo
-        file_put_contents('inputs.log',$input . PHP_EOL, FILE_APPEND);
+        file_put_contents('./inputs.log',$input . PHP_EOL, FILE_APPEND);
       }
     }
     new webhook();
