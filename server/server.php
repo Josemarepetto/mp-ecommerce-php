@@ -27,7 +27,7 @@ MercadoPago\SDK::setIntegratorId("dev_24c65fb163bf11ea96500242ac130004");
         //Configuro External Reference solicitada
         $preference-> external_reference="josemarepetto@gmail.com";
         //Configuro URL para recibir notificaciones
-        $preference->notification_url="https://mp-ecommercer-php-notificacion.herokuapp.com";
+        $preference->notification_url="https://hookb.in/9XXbzYDEkac600eMmo7g";
         $preference->items = array($item);
 
         //Metodos de Pago EXCLUIDOS
